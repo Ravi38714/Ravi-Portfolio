@@ -33,6 +33,7 @@ import Sps from './assets/education_logo/SPS-Logo.jpg';
 
 // Project Section Logo's
 import Job_portal from './assets/work_logo/Job-Portal.png';
+import AI_Fitness from './assets/work_logo/AI-Fitness.png';
 
 
 export const SkillsInfo = [
@@ -176,6 +177,16 @@ export const SkillsInfo = [
       tags: ["React JS", "Node JS", "MongoDB", "Express JS", "Tailwind CSS", "JWT", "Redux", "API"],
       github: "https://github.com/Ravi38714/Job_Portal-Dep",
       webapp: "https://job-portal-dep.onrender.com/",
+    },
+    {
+      id: 1,
+      title: "AI-Fitness",
+      description:
+        "Developed a responsive AI-driven fitness website featuring a real-time chatbot, voice assistant for coaching, and dynamic workout plans using DOM manipulation. Enhanced user experience with performance optimizations like lazy loading and asynchronous API calls.",
+      image: AI_Fitness,
+      tags: ["HTML", "CSS", "JavaScript", ],
+      github: "https://github.com/Ravi38714/AI-Fitness",
+      webapp: "https://ai-fitness-91dg.onrender.com/",
     },
     // {
     //   id: 1,
