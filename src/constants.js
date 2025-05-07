@@ -143,7 +143,7 @@ export const SkillsInfo = [
     {
       id: 0,
       img: Vit,
-      school: "Vellore Institute Of Bechnology, Bhopal",
+      school: "Vellore Institute Of Technology, Bhopal",
       date: "Sept 2021 - Aug 2025",
       grade: "8.18 CGPA",
       desc: "I have completed my Bachelor’s degree (B.Tech) in Computer Science and Engineering from VIT Bhopal, where I built a strong foundation in programming, web development, and problem-solving. My coursework covered key subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in technical workshops and events, which enhanced both my theoretical understanding and practical skills. My experience at VIT Bhopal has been instrumental in shaping my technical expertise and supporting my overall professional growth.",
