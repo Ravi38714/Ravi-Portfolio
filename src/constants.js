@@ -191,7 +191,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "TypingiSpeed",
+      title: "Typing Speed",
       description:
         "The Typing Speed Tester is a simple React + Vite-based web application that helps users test and improve their typing speed and accuracy. It features a real-time timer, dynamic sentence highlighting for correct/incorrect characters, and calculates words per minute (WPM), accuracy percentage, and total time taken.",
       image: Typing_Speed,
