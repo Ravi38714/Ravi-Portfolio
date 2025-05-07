@@ -34,6 +34,7 @@ import Sps from './assets/education_logo/SPS-Logo.jpg';
 // Project Section Logo's
 import Job_portal from './assets/work_logo/Job-Portal.png';
 import AI_Fitness from './assets/work_logo/AI-Fitness.png';
+import Typing_Speed from './assets/work_logo/Typing_Speed.png';
 
 
 export const SkillsInfo = [
@@ -187,6 +188,16 @@ export const SkillsInfo = [
       tags: ["HTML", "CSS", "JavaScript", ],
       github: "https://github.com/Ravi38714/AI-Fitness",
       webapp: "https://ai-fitness-91dg.onrender.com/",
+    },
+    {
+      id: 2,
+      title: "TypingiSpeed",
+      description:
+        "The Typing Speed Tester is a simple React + Vite-based web application that helps users test and improve their typing speed and accuracy. It features a real-time timer, dynamic sentence highlighting for correct/incorrect characters, and calculates words per minute (WPM), accuracy percentage, and total time taken.",
+      image: Typing_Speed,
+      tags: ["React JS", "Vite", "JavaScript", "CSS"],
+      github: "https://github.com/Ravi38714/Typing-Speed",
+      webapp: "https://typing-speed-bgk0.onrender.com/",
     },
     // {
     //   id: 1,
