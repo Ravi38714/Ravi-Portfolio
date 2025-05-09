@@ -35,6 +35,7 @@ import Sps from './assets/education_logo/SPS-Logo.jpg';
 import Job_portal from './assets/work_logo/Job-Portal.png';
 import AI_Fitness from './assets/work_logo/AI-Fitness.png';
 import Typing_Speed from './assets/work_logo/Typing_Speed.png';
+import Emoji_Translator from './assets/work_logo/Emoji_Translator.png';
 
 
 export const SkillsInfo = [
@@ -198,6 +199,16 @@ export const SkillsInfo = [
       tags: ["React JS", "Vite", "JavaScript", "CSS"],
       github: "https://github.com/Ravi38714/Typing-Speed",
       webapp: "https://typing-speed-bgk0.onrender.com/",
+    },
+    {
+      id: 3,
+      title: "Emoji Translator",
+      description:
+        "Emoji-Tran is a fun and interactive web application built using React that translates text-based expressions into meaningful emojis. The aim of the project is to provide an engaging way for users to express their thoughts visually, bridging communication gaps and making conversations more expressive.",
+      image: Emoji_Translator,
+      tags: ["JavaScript", "CSS", "React JS", "Vite"],
+      github: "https://github.com/Ravi38714/Emoji-Translator",
+      webapp: "https://emoji-translator-6bu9.onrender.com",
     },
     // {
     //   id: 1,
