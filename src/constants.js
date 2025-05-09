@@ -36,6 +36,7 @@ import Job_portal from './assets/work_logo/Job-Portal.png';
 import AI_Fitness from './assets/work_logo/AI-Fitness.png';
 import Typing_Speed from './assets/work_logo/Typing_Speed.png';
 import Emoji_Translator from './assets/work_logo/Emoji_Translator.png';
+import Sorting_Visualizer from './assets/work_logo/Sorting_Visualizer.png';
 
 
 export const SkillsInfo = [
@@ -182,6 +183,16 @@ export const SkillsInfo = [
     },
     {
       id: 1,
+      title: "Sorting Visualizer",
+      description:
+        "Sorting Visualizer is a dynamic and interactive web application that demonstrates how various sorting algorithms work through real-time animations. The goal of the project is to help learners and developers understand the inner workings of algorithms like Bubble Sort, Selection Sort, Insertion Sort, and more by visually representing the sorting process in an engaging way.",
+      image: Sorting_Visualizer,
+      tags: ["React JS", "Vite", "Tailwind CSS", "JavaScript"],
+      github: "https://github.com/Ravi38714/Sorting-Visualizer",
+      webapp: "https://sorting-visualizer-omega-neon.vercel.app/",
+    },
+    {
+      id: 2,
       title: "AI-Fitness",
       description:
         "Developed a responsive AI-driven fitness website featuring a real-time chatbot, voice assistant for coaching, and dynamic workout plans using DOM manipulation. Enhanced user experience with performance optimizations like lazy loading and asynchronous API calls.",
@@ -191,7 +202,7 @@ export const SkillsInfo = [
       webapp: "https://ai-fitness-91dg.onrender.com/",
     },
     {
-      id: 2,
+      id: 3,
       title: "Typing Speed",
       description:
         "The Typing Speed Tester is a simple React + Vite-based web application that helps users test and improve their typing speed and accuracy. It features a real-time timer, dynamic sentence highlighting for correct/incorrect characters, and calculates words per minute (WPM), accuracy percentage, and total time taken.",
@@ -201,7 +212,7 @@ export const SkillsInfo = [
       webapp: "https://typing-speed-bgk0.onrender.com/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Emoji Translator",
       description:
         "Emoji-Tran is a fun and interactive web application built using React that translates text-based expressions into meaningful emojis. The aim of the project is to provide an engaging way for users to express their thoughts visually, bridging communication gaps and making conversations more expressive.",
