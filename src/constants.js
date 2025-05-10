@@ -37,6 +37,7 @@ import AI_Fitness from './assets/work_logo/AI-Fitness.png';
 import Typing_Speed from './assets/work_logo/Typing_Speed.png';
 import Emoji_Translator from './assets/work_logo/Emoji_Translator.png';
 import Sorting_Visualizer from './assets/work_logo/Sorting_Visualizer.png';
+import Todo_List from './assets/work_logo/Todo_List.png';
 
 
 export const SkillsInfo = [
@@ -220,6 +221,16 @@ export const SkillsInfo = [
       tags: ["JavaScript", "CSS", "React JS", "Vite"],
       github: "https://github.com/Ravi38714/Emoji-Translator",
       webapp: "https://emoji-translator-6bu9.onrender.com",
+    },
+    {
+      id: 5,
+      title: "Todo List",
+      description:
+        "This is a simple ToDo List web application that allows users to add, delete, and manage tasks. Built using HTML, CSS, and JavaScript, the app provides an interactive experience where tasks are stored in local storage to persist even after a page refresh. The application features an intuitive design and is fully responsive, making it a perfect project for those learning basic web development.",
+      image: Todo_List,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github: "https://github.com/Ravi38714/Todo-List",
+      webapp: "https://todo-list-8n1f.onrender.com/",
     },
     // {
     //   id: 1,
